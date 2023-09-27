@@ -1,3 +1,3 @@
 # Amazon-Clone
 Amazon Clone using basic HTML and CSS.
-Author - Vijeta Singh Rajput
+Author - Vijeta Singh Rajput.
